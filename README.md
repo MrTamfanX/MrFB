@@ -15,4 +15,4 @@ chmod -R 775 lib
 
 sh install.sh
 
-sh haxshot.
+sh haxshot.sh
